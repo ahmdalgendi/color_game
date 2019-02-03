@@ -10,6 +10,8 @@ var diff = true;
 
 reset.addEventListener("click", generate_new_colors);
 
+
+// now all works 
 function generate_number()
 {
 	var red = Math.floor(Math.random() * 256);      // returns a random integer from 0 to 256
