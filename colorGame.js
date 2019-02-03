@@ -22,6 +22,8 @@ function generate_number()
 		return generate_number(); 
 	return [red, green, blue];
 }
+//some comments
+
 function generate_new_colors()
 {
 	var numbers = generate_number();
